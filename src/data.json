@@ -1,0 +1,114 @@
+{
+    "menuItemsTop": [
+        {
+            "icon": "",
+            "title": "My Apps"
+        },
+        {
+            "icon": "",
+            "title": "Resources"
+        }
+    ],
+    "menuItemsBottom": [
+        {
+            "icon": "",
+            "title": "My Organisaton"
+        },
+        {
+            "icon": "",
+            "title": "Setting"
+        },
+        {
+            "icon": "",
+            "title": "Logout"
+        }
+    ],
+    "tasks": [
+        {
+            "count": 66,
+            "category": "Ongoing",
+            "color": "#FBBD54",
+            "borderColor": "#FCAB04"
+        },
+        {
+            "count": 66,
+            "category": "Delayed",
+            "color": "#FB5A63",
+            "borderColor": "#FA2534"
+        },
+        {
+            "count": 66,
+            "category": "Completed",
+            "color": "#7ED353",
+            "borderColor": "#5AC624"
+        },
+        {
+            "count": 66,
+            "category": "Total Assigned",
+            "color": "#40AFDA",
+            "borderColor": "#008CCC"
+        }
+    ],
+    "tableData":[
+        {
+        "task": "BGV of new Candidates",
+        "time": "2:00 PM",
+        "date": "Fri, 21 May 22",
+        "assignedBy": "Manoharr Patnaik",
+        "assignedTo": "Arvind Karmakarr",
+        "deadline": "Fri, 21 May 22",
+        "status": "red",
+        "priority": "High"
+    },
+        {
+        "task": "Onboard new Client",
+        "time": "2:00 PM",
+        "date": "Fri, 21 May 22",
+        "assignedBy": "Manoharr Patnaik",
+        "assignedTo": "Arvind Karmakarr",
+        "deadline": "Fri, 21 May 22",
+        "status": "yellow",
+        "priority": "High"
+    },
+        {
+        "task": "BGV of new Candidates",
+        "time": "2:00 PM",
+        "date": "Fri, 21 May 22",
+        "assignedBy": "Manoharr Patnaik",
+        "assignedTo": "Arvind Karmakarr",
+        "deadline": "Fri, 21 May 22",
+        "status": "red",
+        "priority": "Low"
+    },
+        {
+        "task": "BGV of new Candidates",
+        "time": "2:00 PM",
+        "date": "Fri, 21 May 22",
+        "assignedBy": "Manoharr Patnaik",
+        "assignedTo": "Arvind Karmakarr",
+        "deadline": "Fri, 21 May 22",
+        "status": "green",
+        "priority": "Low"
+    },
+        {
+        "task": "Onboard new Client",
+        "time": "2:00 PM",
+        "date": "Fri, 21 May 22",
+        "assignedBy": "Manoharr Patnaik",
+        "assignedTo": "Arvind Karmakarr",
+        "deadline": "Fri, 21 May 22",
+        "status": "yellow",
+        "priority": "High"
+    },
+        {
+        "task": "BGV of new Candidates",
+        "time": "2:00 PM",
+        "date": "Fri, 21 May 22",
+        "assignedBy": "Manoharr Patnaik",
+        "assignedTo": "Arvind Karmakarr",
+        "deadline": "Fri, 21 May 22",
+        "status": "green",
+        "priority": "Medium"
+    }
+]
+}
