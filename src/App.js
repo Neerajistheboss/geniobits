@@ -7,7 +7,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path='/' element={<DashboardPage />}>
+        <Route path='/geniobits' element={<DashboardPage />}>
         </Route>
       </Routes>
     </Router>
